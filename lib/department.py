@@ -22,3 +22,6 @@ class Department:
             """
         )
         CONN.commit()
+
+    @classmethod
+    
